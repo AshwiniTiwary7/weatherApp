@@ -5,4 +5,6 @@ This will activate all depedencies package.
 
 .env file is fully configured you can use your API key.
 Just go to - https://home.openweathermap.org/api_keys and create your own private key.
+After Upadting .env with your correct Api key, just go to one of the backend file and save it without changing. This will refresh the code and server
+You can also try refreshing browser.
 
